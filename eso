@@ -39,7 +39,7 @@ local random = math.random
 
 local DefaultSettings = {
     Esp = {
-        NamesEnabled = false,
+        NamesEnabled = true,
         DisplayNamesEnabled = true,
         DistanceEnabled = false,
         HealthEnabled = false,
