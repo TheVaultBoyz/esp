@@ -39,12 +39,12 @@ local random = math.random
 
 local DefaultSettings = {
     Esp = {
-        NamesEnabled = false,
+        NamesEnabled = true,
         DisplayNamesEnabled = true,
         DistanceEnabled = false,
-        HealthEnabled = false,
+        HealthEnabled = true,
         TracersEnabled = false,
-        BoxEsp = true,
+        BoxEsp = false,
         TeamColors = false,
         Thickness = 1.5,
         TracerThickness = 1.6,
